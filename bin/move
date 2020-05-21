@@ -10,7 +10,7 @@ puts "Where would you like to go?"
 #gets user input for move
 index = gets.strip
 
-#calling out input_to_index method to convert move from string to integer
+#calling your input_to_index method to convert move from string to integer
 input_to_index(index)
 
 #call our move method to update the board with the user's input
