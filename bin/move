@@ -14,7 +14,7 @@ input = gets.strip
 input_to_index(input)
 
 #call our move method to update the board with the user's input
-move(board, index_update)
+move(board, index)
 
 #finally, we are displaying our board with the display_board method
 display_board
