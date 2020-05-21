@@ -8,9 +8,7 @@ end
 
 # code your input_to_index and move method here!
 def input_to_index(index)
-  puts "> #{index} <"
   index = index.to_i - 1
-  puts "> #{index} <"
 end
 
 #move method
