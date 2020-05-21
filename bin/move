@@ -16,3 +16,5 @@ input_to_index(index)
 #call our move method to update the board with the user's input
 move(board)
 
+#finally, we are displaying our board with the display_board method
+display_board
