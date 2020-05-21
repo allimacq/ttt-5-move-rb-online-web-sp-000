@@ -13,7 +13,6 @@ index = gets.strip
 #calling your input_to_index method to convert move from string to integer
 input_to_index(index)
 
-puts index
 
 #call our move method to update the board with the user's input
 move(board, index)
